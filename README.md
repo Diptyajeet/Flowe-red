@@ -1,0 +1,1 @@
+Flower Red is a modern, responsive flower-themed website built with HTML, CSS, and JavaScript. It features elegant animations, a clean user interface, and a visually appealing design for showcasing beautiful floral experiences.
